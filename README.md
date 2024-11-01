@@ -1,2 +1,2 @@
 # DevHive
-My First Repository
+My First Repo
